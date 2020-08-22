@@ -4,7 +4,7 @@
       <div class="content has-text-centered">
         Follow us all on
         <a href="https://twitter.com/bstavroulakis"
-        target="_blank">Twitter</a>
+        target="_blank">BLK Twitter</a>
       </div>
     </div>
   </footer>
